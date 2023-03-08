@@ -1,0 +1,14 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "curso de versiones de javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Frans Aguirre <dark.tempus@gmail.com>",
+  "license": "MIT"
+}
