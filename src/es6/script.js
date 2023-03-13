@@ -48,7 +48,6 @@ return sumaInputs;
 
 
 
-
 /* const p = document.querySelector('p');
 const paragraph = document.querySelector('.paragraph');
 const pid = document.querySelector('#pid');
